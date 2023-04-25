@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mansir93/catApp/static/css/main.e275f353.css",
+    "main.js": "/mansir93/catApp/static/js/main.0cfc4d15.js",
+    "index.html": "/mansir93/catApp/index.html",
+    "main.e275f353.css.map": "/mansir93/catApp/static/css/main.e275f353.css.map",
+    "main.0cfc4d15.js.map": "/mansir93/catApp/static/js/main.0cfc4d15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e275f353.css",
+    "static/js/main.0cfc4d15.js"
+  ]
+}
